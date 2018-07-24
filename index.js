@@ -4,14 +4,9 @@ function theBeatlesPlay(musicians, instruments){
   const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
   //var i;
   for (i = 0; i < musicians.length; i++) {
-    for (j = 0; j < instruments.length; j++){
-      if (musicians[i] = instruments[j]) {
-        emptyArray += musicians[i] + instruments[j];
-      }
-    }
+    emptyArray += musicians[i] + " plays " + instruments[i];
   }
-
-
+  return emptyArray;
 }
 
 
