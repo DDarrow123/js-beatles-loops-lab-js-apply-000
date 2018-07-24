@@ -24,11 +24,11 @@ function iLoveTheBeatles(number){
 
   do {
 
-    emptyArray.push("I love the Beatles!"); 
+    emptyArray.push("I love the Beatles!");
     i++;
 
   }
 
-while (i < number)
+while (number < 15)
 
 }
