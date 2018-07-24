@@ -17,6 +17,3 @@ function johnLennonFacts(facts){
   }
   return emptyArray;
 }
-
-
-// add solution here
