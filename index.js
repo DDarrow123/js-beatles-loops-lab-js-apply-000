@@ -18,7 +18,7 @@ function johnLennonFacts(facts){
   return emptyArray;
 }
 
-function iLoveTheBeatles(7){
+function iLoveTheBeatles(number){
 
 
 }
